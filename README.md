@@ -1,6 +1,4 @@
 # hello-world
 Prueba
  My name is Dulce Espinoza Solis
- hola
-hola2
-hola3
+ hola ,hola2 ,hola3
