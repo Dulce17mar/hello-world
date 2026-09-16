@@ -1,4 +1,3 @@
 # hello-world
 Prueba
- My name is Dulce Margarita Espinoza Solis
- I like to all animals
+ My name is Dulce Espinoza Solis
